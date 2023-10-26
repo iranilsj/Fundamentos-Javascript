@@ -1,64 +1,64 @@
-//math.round()
+// //math.round()
 
-// math -> Matematica
-//round -> arredondamento
+// // math -> Matematica
+// //round -> arredondamento
 
-//math.round(4.3)  -> Retorna o resultado de 4
+// //math.round(4.3)  -> Retorna o resultado de 4
 
-Math.round(3.85) -> retorna o resultado de 4
+// Math.round(3.85) -> retorna o resultado de 4
 
-Math.round(2.5) -> retorna o resultado de 3 
+// Math.round(2.5) -> retorna o resultado de 3 
 
-Math.ceil()
+// Math.ceil()
 
-ceil -> teto 
+// ceil -> teto 
 
-Math.ceil(5.2) -> retorna o resultade de 6
+// Math.ceil(5.2) -> retorna o resultade de 6
 
-Math.floor()
+// Math.floor()
 
-floor -> piso 
+// floor -> piso 
 
-Math.floor(5.2) -> retorna o resultado de 5
+// Math.floor(5.2) -> retorna o resultado de 5
 
-Math.trunc()
+// Math.trunc()
 
-trunc -> truncamento -> desconsidera os numeros decimais 
+// trunc -> truncamento -> desconsidera os numeros decimais 
 
-Math.trunc(4.3) -> retorna o resultado de 4
-Math.trunc(4.8) -> retorna o resultado de 4
+// Math.trunc(4.3) -> retorna o resultado de 4
+// Math.trunc(4.8) -> retorna o resultado de 4
 
-Math.pow()
+// Math.pow()
 
-pow - > faz a exponenciação de 2 numeros, quando for simples quadrado(2) ou cubo(3)
-obs. pouco utilizado
+// pow - > faz a exponenciação de 2 numeros, quando for simples quadrado(2) ou cubo(3)
+// obs. pouco utilizado
 
-Math.pow(4 , 2) -> retorna o resultado de 4^2 = 16
-Math.pow(2.5 , 1.5) -> retorna o resultado de 2.5^(3/2) = 3.9528... 
+// Math.pow(4 , 2) -> retorna o resultado de 4^2 = 16
+// Math.pow(2.5 , 1.5) -> retorna o resultado de 2.5^(3/2) = 3.9528... 
 
-Math.sqrt()
+// Math.sqrt()
 
-sqrt -> raiz quadrada
+// sqrt -> raiz quadrada
 
-Math.sqrt(64) -> retona o resultado de 8
+// Math.sqrt(64) -> retona o resultado de 8
 
-Math.min()
+// Math.min()
 
-min -> valor menor 
+// min -> valor menor 
 
-Math.min(0, 150, 30, 20, -8, -200) -> retorna o menor valor argumentado -> -200 
+// Math.min(0, 150, 30, 20, -8, -200) -> retorna o menor valor argumentado -> -200 
 
-Math.max()
+// Math.max()
 
-max -> valor maior 
+// max -> valor maior 
 
-Math.max(0, 150, 30, 20, -8, -200) -> retorna o maior valor argumentado -> 150
+// Math.max(0, 150, 30, 20, -8, -200) -> retorna o maior valor argumentado -> 150
 
-Math.random()
+// Math.random()
 
-random -> retorna valor randônico entre 0 e 1
-obs. não obtem nenhum valor esperado
+// random -> retorna valor randônico entre 0 e 1
+// obs. não obtem nenhum valor esperado
 
-Math.random() -> retorna o resultado de 0.7456916270759015
-Math.random() -> retorna o resultado de 0.15449802102729304
-Math.random() -> retorna o resultado de 0.4214269561951203
+// Math.random() -> retorna o resultado de 0.7456916270759015
+// Math.random() -> retorna o resultado de 0.15449802102729304
+// Math.random() -> retorna o resultado de 0.4214269561951203
